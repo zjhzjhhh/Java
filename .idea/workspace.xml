@@ -1,9 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd02fcb9-74bc-41ae-aed4-e1dd4561c9f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSec.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23jna0l5J3Gu3vkxRpx0NwMLxHu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd02fcb9-74bc-41ae-aed4-e1dd4561c9f7" name="Default Changelist" comment="" />
+      <created>1642256423036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642256423036</updated>
+      <workItem from="1642256424362" duration="2162000" />
+      <workItem from="1642422344360" duration="192000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="114" key="#Project_Structure" timestamp="1642261479266">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="409" y="114" key="#Project_Structure/0.0.1858.1080@0.0.1858.1080" timestamp="1642261479266" />
+    <state x="204" y="56" key="DiffContextDialog" timestamp="1642261420743">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="204" y="56" key="DiffContextDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1642261420743" />
+    <state x="708" y="280" key="FileChooserDialogImpl" timestamp="1642422528370">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="708" y="280" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1642422528370" />
+    <state x="801" y="437" key="Github.ShareDialog" timestamp="1642256781871">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="801" y="437" key="Github.ShareDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1642256781871" />
+    <state x="738" y="244" key="Github.UntrackedFilesDialog" timestamp="1642256853295">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="738" y="244" key="Github.UntrackedFilesDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1642256853295" />
+    <state x="430" y="184" key="SettingsEditor" timestamp="1642257060050">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="430" y="184" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1642257060050" />
+    <state x="547" y="239" key="Vcs.Push.Dialog.v2" timestamp="1642261656412">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="547" y="239" key="Vcs.Push.Dialog.v2/0.0.1858.1080@0.0.1858.1080" timestamp="1642261656412" />
+    <state x="303" y="112" key="new project wizard" timestamp="1642422539424">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="303" y="112" key="new project wizard/0.0.1858.1080@0.0.1858.1080" timestamp="1642422539424" />
   </component>
 </project>
