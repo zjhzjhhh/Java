@@ -23,34 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd02fcb9-74bc-41ae-aed4-e1dd4561c9f7" name="Default Changelist" comment="commit11">
-      <change afterPath="$PROJECT_DIR$/2.web相关/mybatis操作.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.web相关/数据库操作.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.web相关/文件操作.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.基础知识/类加载.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/fastjsondemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/fastjsondemo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/fastjsondemo/src/main/java/com/fastjsonDemo/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/fastjsondemo/src/main/java/com/fastjsonDemo/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/fastjsondemo/src/main/java/com/fastjsonDemo/testfastjson.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/fastjsondemo/src/main/java/com/fastjsonDemo/testfastjson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/fastjsondemo/target/classes/com/fastjsonDemo/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/fastjsondemo/target/classes/com/fastjsonDemo/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/fastjsondemo/target/classes/com/fastjsonDemo/testfastjson.class" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/fastjsondemo/target/classes/com/fastjsonDemo/testfastjson.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/serializedemo/Person.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/serializedemo/Person.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/serializedemo/object" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/serializedemo/object" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/serializedemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/serializedemo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/serializedemo/src/SerializeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/serializedemo/src/SerializeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/serializedemo/src/main/java/com/Serialize/testdemo/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/serializedemo/src/main/java/com/Serialize/testdemo/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/serializedemo/src/main/java/com/Serialize/testdemo/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/serializedemo/src/main/java/com/Serialize/testdemo/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/serializedemo/src/main/java/com/Serialize/unSerializabledemo/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/serializedemo/src/main/java/com/Serialize/unSerializabledemo/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/serializedemo/target/classes/META-INF/Demo4.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/serializedemo/target/classes/META-INF/Demo4.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/serializedemo/target/classes/com/Serialize/testdemo/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/serializedemo/target/classes/com/Serialize/testdemo/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/serializedemo/target/classes/com/Serialize/testdemo/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/serializedemo/target/classes/com/Serialize/testdemo/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/serializedemo/target/classes/com/Serialize/unSerializabledemo/MyObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/serializedemo/target/classes/com/Serialize/unSerializabledemo/MyObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/serializedemo/target/classes/com/Serialize/unSerializabledemo/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/serializedemo/target/classes/com/Serialize/unSerializabledemo/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/serializedemo/temp.bin" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/serializedemo/temp.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/serializedemo/test" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/serializedemo/test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/ssrfdemo/src/com/vuln/SsrfDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/ssrfdemo/src/com/vuln/SsrfDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/ssrfdemo/src/com/vuln/SsrfFileDownLoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/ssrfdemo/src/com/vuln/SsrfFileDownLoad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/ssrfdemo/src/com/vuln/SsrfFileRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/ssrfdemo/src/com/vuln/SsrfFileRead.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/ssrfdemo/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/ssrfdemo/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.demo/ssrfdemo/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/3.demo/ssrfdemo/web/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +71,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -122,7 +96,7 @@
       <workItem from="1652338337809" duration="153000" />
       <workItem from="1652974640232" duration="2357000" />
       <workItem from="1653446965729" duration="190000" />
-      <workItem from="1653976990383" duration="1271000" />
+      <workItem from="1653976990383" duration="2057000" />
     </task>
     <task id="LOCAL-00001" summary="commit1">
       <created>1652338382044</created>
@@ -131,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652338382044</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit11">
+      <created>1653985486947</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653985486947</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,5 +134,9 @@
     <MESSAGE value="commit1" />
     <MESSAGE value="commit11" />
     <option name="LAST_COMMIT_MESSAGE" value="commit11" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
